@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Financial Dashboard",
+  "description": "A fully interactive TradingView clone for financial index tracking, technical analysis, stock search, and custom AI-powered pro analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
